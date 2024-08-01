@@ -1,0 +1,1 @@
+# tngdo-postgres-k8s-statefulset
